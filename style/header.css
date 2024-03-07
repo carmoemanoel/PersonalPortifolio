@@ -1,0 +1,36 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 47px;
+    
+}
+
+.container{
+    width: 1640px;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    background-color: #4d2a98;
+    border-radius: 15px;
+}
+
+.logo{
+    display: flex;
+    gap: 30px;
+    margin-left: 60px;
+    margin-right: 300px;
+}
+
+.menu{
+    display: flex;
+    margin-left: 700px;
+    gap: 80px;
+  
+}
+
+.menu > a{
+    font-size: 18px;
+    color: #ffff;
+
+}
